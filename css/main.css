@@ -1,0 +1,18 @@
+body {
+  background: cornflowerblue;
+}
+/* ----------- For screens 768px and larger ----------- */
+/* tablets */
+@media (min-width: 768px) {
+	body {
+    background-color: bisque;
+  }
+}
+
+/* ----------- For screens 1200px wide and larger----------- */
+/* desktops */
+@media (min-width: 1200px) {
+  body{
+    background-color: darkseagreen;
+  }
+}
